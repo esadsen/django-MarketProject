@@ -23,7 +23,7 @@ update and delete them.
     docker run -p 8000:8000 esadsen/django-marketproject:marketlatest
     ```
 
-3. Open your browser and navigate to `http://localhost:8000`
+3. Open your browser and navigate to [http://localhost:8000](http://localhost:8000)
 
 ### Using Docker Compose
 
