@@ -1,7 +1,6 @@
 # My Django Market Website
 
-A web application of a marketplace website with Django that allows users to register and login, buy items and send message to sellers, present their own items,
-update and delete them.
+●	A web application of a shopping website that allows users to buy and sell items, update and delete their own items and contact with the item’s sellers
 
 ## Prerequisites
 
